@@ -1,0 +1,25 @@
+.Card {
+    // max-height: 10em !important;
+}
+.Font-16px{
+    font-size: 16px !important;
+}
+.Icon:hover {
+    background-color: #ff3366 !important;
+    color: black !important;
+    transition-delay:.2s;
+    transition: all 2s ease-out;
+}
+.ViewBtn{
+    align-items: center;
+
+}
+.ViewBtn:hover{
+    cursor: pointer;
+    // background-color: #0d6efd;
+    transition-delay:.2s;
+    transition: all 1s ease-out;
+}
+.ViewBtn{
+    font-weight: 500;
+}

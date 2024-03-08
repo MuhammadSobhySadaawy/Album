@@ -1,0 +1,38 @@
+C:\Users\Developer\source\repos\Album\Album.DataProviders\obj\Debug\net6.0\Album.DataProviders.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\Album\Album.DataProviders\obj\Debug\net6.0\Album.DataProviders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\source\repos\Album\Album.DataProviders\obj\Debug\net6.0\Album.DataProviders.AssemblyInfoInputs.cache
+C:\Users\Developer\source\repos\Album\Album.DataProviders\obj\Debug\net6.0\Album.DataProviders.AssemblyInfo.cs
+C:\Users\Developer\source\repos\Album\Album.DataProviders\obj\Debug\net6.0\Album.DataProviders.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\Album\Album.DataProviders\bin\Debug\net6.0\Album.DataProviders.deps.json
+C:\Users\Developer\source\repos\Album\Album.DataProviders\bin\Debug\net6.0\Album.DataProviders.dll
+C:\Users\Developer\source\repos\Album\Album.DataProviders\bin\Debug\net6.0\Album.DataProviders.pdb
+C:\Users\Developer\source\repos\Album\Album.DataProviders\bin\Debug\net6.0\Album.DataAccess.dll
+C:\Users\Developer\source\repos\Album\Album.DataProviders\bin\Debug\net6.0\Album.Infrastructure.dll
+C:\Users\Developer\source\repos\Album\Album.DataProviders\bin\Debug\net6.0\Album.Models.dll
+C:\Users\Developer\source\repos\Album\Album.DataProviders\bin\Debug\net6.0\Album.DataAccess.pdb
+C:\Users\Developer\source\repos\Album\Album.DataProviders\bin\Debug\net6.0\Album.Infrastructure.pdb
+C:\Users\Developer\source\repos\Album\Album.DataProviders\bin\Debug\net6.0\Album.Models.pdb
+C:\Users\Developer\source\repos\Album\Album.DataProviders\obj\Debug\net6.0\Album.DataProviders.dll
+C:\Users\Developer\source\repos\Album\Album.DataProviders\obj\Debug\net6.0\refint\Album.DataProviders.dll
+C:\Users\Developer\source\repos\Album\Album.DataProviders\obj\Debug\net6.0\Album.DataProviders.pdb
+C:\Users\Developer\source\repos\Album\Album.DataProviders\obj\Debug\net6.0\ref\Album.DataProviders.dll
+C:\Users\Developer\source\repos\Album\Album.DataProviders\obj\Debug\net6.0\Album.Da.6C670CB8.Up2Date
+J:\Task Album\Album\Album.DataProviders\bin\Debug\net6.0\Album.DataProviders.deps.json
+J:\Task Album\Album\Album.DataProviders\bin\Debug\net6.0\Album.DataProviders.dll
+J:\Task Album\Album\Album.DataProviders\bin\Debug\net6.0\Album.DataProviders.pdb
+J:\Task Album\Album\Album.DataProviders\bin\Debug\net6.0\Album.DataAccess.dll
+J:\Task Album\Album\Album.DataProviders\bin\Debug\net6.0\Album.Infrastructure.dll
+J:\Task Album\Album\Album.DataProviders\bin\Debug\net6.0\Album.Models.dll
+J:\Task Album\Album\Album.DataProviders\bin\Debug\net6.0\Album.DataAccess.pdb
+J:\Task Album\Album\Album.DataProviders\bin\Debug\net6.0\Album.Infrastructure.pdb
+J:\Task Album\Album\Album.DataProviders\bin\Debug\net6.0\Album.Models.pdb
+J:\Task Album\Album\Album.DataProviders\obj\Debug\net6.0\Album.DataProviders.csproj.AssemblyReference.cache
+J:\Task Album\Album\Album.DataProviders\obj\Debug\net6.0\Album.DataProviders.GeneratedMSBuildEditorConfig.editorconfig
+J:\Task Album\Album\Album.DataProviders\obj\Debug\net6.0\Album.DataProviders.AssemblyInfoInputs.cache
+J:\Task Album\Album\Album.DataProviders\obj\Debug\net6.0\Album.DataProviders.AssemblyInfo.cs
+J:\Task Album\Album\Album.DataProviders\obj\Debug\net6.0\Album.DataProviders.csproj.CoreCompileInputs.cache
+J:\Task Album\Album\Album.DataProviders\obj\Debug\net6.0\Album.Da.6C670CB8.Up2Date
+J:\Task Album\Album\Album.DataProviders\obj\Debug\net6.0\Album.DataProviders.dll
+J:\Task Album\Album\Album.DataProviders\obj\Debug\net6.0\refint\Album.DataProviders.dll
+J:\Task Album\Album\Album.DataProviders\obj\Debug\net6.0\Album.DataProviders.pdb
+J:\Task Album\Album\Album.DataProviders\obj\Debug\net6.0\ref\Album.DataProviders.dll

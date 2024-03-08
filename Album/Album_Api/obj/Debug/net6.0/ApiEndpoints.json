@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "Album_Api.Controllers.GalleryAlbumController",
+    "Method": "Delete",
+    "RelativePath": "api/GalleryAlbum/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Album_Api.Controllers.GalleryAlbumController",
+    "Method": "GetAll",
+    "RelativePath": "api/GalleryAlbum/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Album_Api.Controllers.GalleryAlbumController",
+    "Method": "GetById",
+    "RelativePath": "api/GalleryAlbum/GetById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Album_Api.Controllers.GalleryAlbumController",
+    "Method": "Save",
+    "RelativePath": "api/GalleryAlbum/Save",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Album.Models.API.Request.AlbumRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

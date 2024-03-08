@@ -1,0 +1,72 @@
+<div>
+  <div class="mb-2" [class.d-flex]="displayFlex">
+    <div>
+      <input type="file" maxz="819200" accept="image/png, image/jpg, image/jpeg"  class="form-control shadow-sm" [disabled]="isDisabled" [multiple]="isMany"
+        (change)="onFileChange($event)" #inputFile [placeholder]="'chooseFile'" />
+    </div>
+  </div>
+
+
+  <div class="card" *ngIf="myFiles.length> 0 ">
+    <div class="card-body p-0">
+      <div class="table-responsive shadow-sm">
+        <table class="table table-striped">
+          <colgroup>
+            <col span="1" style="width: 20%;">
+            <col span="1" style="width: 30%;">
+            <col span="1" style="width: 15%;" *ngIf="isMany">
+            <col span="1" style="width: 25%;" *ngIf="!isDisabled">
+          </colgroup>
+          <thead>
+            <tr>
+              <th class="text-center text-black Font-16px" translate>file</th>
+              <th class="text-center text-black Font-16px" translate>Url</th>
+              <th class="text-center text-black Font-16px" *ngIf="isMany" translate>sort Number
+              </th>
+              <th class="text-center text-black Font-16px" *ngIf="!isDisabled" translate>
+                actions</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="p-0" *ngFor="let item of getList(); let i = index">
+              <td class="text-center p-1">
+                <!-- <ng-container
+                                    *ngIf="item.filePath && (item.filePath.toLowerCase().endsWith('.png') || item.filePath.toLowerCase().endsWith('.jpg')|| item.filePath.toLowerCase().endsWith('.jpeg'))">
+                                    <img class="rounded-1 p-0" [src]="item.filePath" [alt]="item.fileName"
+                                        *ngIf="!item.fileSource">
+                                    <img class="rounded-1 p-0" *ngIf="item.fileSource" [src]="item.fileSource" alt="">
+                                </ng-container>
+                                <ng-container
+                                    *ngIf="item.filePath && (item.filePath.toLowerCase().endsWith('.pdf') || item.filePath.toLowerCase().endsWith('.doc') ||item.filePath.toLowerCase().endsWith('.txt'))">
+                                    <a class="p-flex margin-y" [href]="item.filePath" target="_blank"
+                                        translate>{{item.fileName}}</a>
+                                </ng-container> -->
+                <img class="rounded-1 p-0" width="100" height="50" [src]="item.filePath" [alt]="item.fileName" *ngIf="!item.fileSource">
+                <img class="rounded-1 p-0" width="100" height="50" *ngIf="item.fileSource" [src]="item.fileSource" alt="">
+              </td>
+              <td class="text-center p-1 align-middle">
+                <p class="p-flex margin-y" *ngIf="isMany && item.fileSource != ''">...</p>
+                <a class="p-flex margin-y" *ngIf="isMany && item.fileSource == ''" [href]="item.filePath"
+                  target="_blank" translate>view</a>
+
+                <a class="ViewBtn margin-y" *ngIf="!isMany && !item.fileSource" [href]="item.filePath" target="_blank"
+                  translate>view</a>
+
+                <p class=" margin-y" *ngIf="!isMany && item.fileSource">...</p>
+
+              </td>
+              <td class="text-center p-1" *ngIf="isMany">
+                <input type="number" [value]="item.sortNumber" min="1" class="form-control" placeholder="SortNum"
+                  (input)="changeSortNumber(i)" [(ngModel)]="item.sortNumber">
+              </td>
+              <td class="text-center p-0" *ngIf="!isDisabled">
+                <a type="button" class="btn btn-lg text-danger Icon" (click)="handleConfirmClearAction(item)">
+                  <i class="fa fa-trash-o"></i></a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>

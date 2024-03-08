@@ -1,0 +1,154 @@
+C:\Users\Developer\source\repos\Album\Album_Api\obj\Debug\net6.0\Album_Api.csproj.AssemblyReference.cache
+C:\Users\Developer\source\repos\Album\Album_Api\obj\Debug\net6.0\Album_Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\source\repos\Album\Album_Api\obj\Debug\net6.0\Album_Api.AssemblyInfoInputs.cache
+C:\Users\Developer\source\repos\Album\Album_Api\obj\Debug\net6.0\Album_Api.AssemblyInfo.cs
+C:\Users\Developer\source\repos\Album\Album_Api\obj\Debug\net6.0\Album_Api.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\Album\Album_Api\obj\Debug\net6.0\Album_Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\appsettings.json
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Album_Api.exe
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Album_Api.deps.json
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Album_Api.runtimeconfig.json
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Album_Api.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Album_Api.pdb
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Dapper.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Album.DataAccess.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Album.DataProviders.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Album.Infrastructure.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Album.Models.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Album.DataAccess.pdb
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Album.DataProviders.pdb
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Album.Infrastructure.pdb
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Album.Models.pdb
+C:\Users\Developer\source\repos\Album\Album_Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Developer\source\repos\Album\Album_Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Developer\source\repos\Album\Album_Api\obj\Debug\net6.0\staticwebassets\msbuild.Album_Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Developer\source\repos\Album\Album_Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Album_Api.props
+C:\Users\Developer\source\repos\Album\Album_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Album_Api.props
+C:\Users\Developer\source\repos\Album\Album_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Album_Api.props
+C:\Users\Developer\source\repos\Album\Album_Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Developer\source\repos\Album\Album_Api\obj\Debug\net6.0\scopedcss\bundle\Album_Api.styles.css
+C:\Users\Developer\source\repos\Album\Album_Api\obj\Debug\net6.0\Album_Api.dll
+C:\Users\Developer\source\repos\Album\Album_Api\obj\Debug\net6.0\refint\Album_Api.dll
+C:\Users\Developer\source\repos\Album\Album_Api\obj\Debug\net6.0\Album_Api.pdb
+C:\Users\Developer\source\repos\Album\Album_Api\obj\Debug\net6.0\Album_Api.genruntimeconfig.cache
+C:\Users\Developer\source\repos\Album\Album_Api\obj\Debug\net6.0\ref\Album_Api.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Developer\source\repos\Album\Album_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Developer\source\repos\Album\Album_Api\obj\Debug\net6.0\Album_Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Developer\source\repos\Album\Album_Api\obj\Debug\net6.0\Album_Api.csproj.Up2Date
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\appsettings.Development.json
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\appsettings.json
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Album_Api.exe
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Album_Api.deps.json
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Album_Api.runtimeconfig.json
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Album_Api.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Album_Api.pdb
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\AutoMapper.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Dapper.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Humanizer.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\System.Drawing.Common.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\System.Security.Permissions.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Album.DataAccess.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Album.DataProviders.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Album.Infrastructure.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Album.Models.dll
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Album.DataAccess.pdb
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Album.DataProviders.pdb
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Album.Infrastructure.pdb
+J:\Task Album\Album\Album_Api\bin\Debug\net6.0\Album.Models.pdb
+J:\Task Album\Album\Album_Api\obj\Debug\net6.0\Album_Api.csproj.AssemblyReference.cache
+J:\Task Album\Album\Album_Api\obj\Debug\net6.0\Album_Api.GeneratedMSBuildEditorConfig.editorconfig
+J:\Task Album\Album\Album_Api\obj\Debug\net6.0\Album_Api.AssemblyInfoInputs.cache
+J:\Task Album\Album\Album_Api\obj\Debug\net6.0\Album_Api.AssemblyInfo.cs
+J:\Task Album\Album\Album_Api\obj\Debug\net6.0\Album_Api.csproj.CoreCompileInputs.cache
+J:\Task Album\Album\Album_Api\obj\Debug\net6.0\Album_Api.MvcApplicationPartsAssemblyInfo.cs
+J:\Task Album\Album\Album_Api\obj\Debug\net6.0\Album_Api.MvcApplicationPartsAssemblyInfo.cache
+J:\Task Album\Album\Album_Api\obj\Debug\net6.0\staticwebassets.build.json
+J:\Task Album\Album\Album_Api\obj\Debug\net6.0\staticwebassets.development.json
+J:\Task Album\Album\Album_Api\obj\Debug\net6.0\staticwebassets\msbuild.Album_Api.Microsoft.AspNetCore.StaticWebAssets.props
+J:\Task Album\Album\Album_Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Album_Api.props
+J:\Task Album\Album\Album_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Album_Api.props
+J:\Task Album\Album\Album_Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Album_Api.props
+J:\Task Album\Album\Album_Api\obj\Debug\net6.0\staticwebassets.pack.json
+J:\Task Album\Album\Album_Api\obj\Debug\net6.0\scopedcss\bundle\Album_Api.styles.css
+J:\Task Album\Album\Album_Api\obj\Debug\net6.0\Album_Api.csproj.Up2Date
+J:\Task Album\Album\Album_Api\obj\Debug\net6.0\Album_Api.dll
+J:\Task Album\Album\Album_Api\obj\Debug\net6.0\refint\Album_Api.dll
+J:\Task Album\Album\Album_Api\obj\Debug\net6.0\Album_Api.pdb
+J:\Task Album\Album\Album_Api\obj\Debug\net6.0\Album_Api.genruntimeconfig.cache
+J:\Task Album\Album\Album_Api\obj\Debug\net6.0\ref\Album_Api.dll

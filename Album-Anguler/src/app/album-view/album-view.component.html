@@ -1,0 +1,46 @@
+<div class="container-fluid mt-4 mb-4">
+  <div class="card">
+    <div class="card-body">
+      <div class="card-title">
+        <h2>View Album</h2>
+      </div>
+
+    <!-- SECTION -->
+    <div class="section">
+      <!-- container -->
+      <div class="container">
+        <!-- row -->
+        <div class="row">
+          <!-- Product thumb imgs -->
+          <div class="col-md-7 col-md-pull-5">
+            <gallery class="bg-white" [items]="Imgss" thumbPosition="left"></gallery>
+          </div>
+          <!-- /Product thumb imgs -->
+
+          <!-- Product details -->
+          <div class="col-md-5">
+            <div class="product-details">
+              <h2 class="product-name"> <span style="color: red;"> title:</span> {{ albumDetails.title }}</h2>
+              <div>
+              </div>
+              <p>
+               <span style="color: red;"> description: </span> {{ albumDetails.description }}
+              </p>
+
+            </div>
+            <img *ngIf="albumDetails.coverPhotoPath" [src]="albumDetails.coverPhotoPath" height="300"
+              class="img-fluid rounded border bg-light">
+
+          </div>
+
+          <!-- /Product details -->
+        </div>
+        <!-- /row -->
+      </div>
+      <!-- /container -->
+    </div>
+
+  </div>
+
+</div>
+</div>

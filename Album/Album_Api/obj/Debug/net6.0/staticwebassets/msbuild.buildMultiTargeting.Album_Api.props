@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Album_Api.props" />
+</Project>

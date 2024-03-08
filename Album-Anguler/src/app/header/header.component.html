@@ -1,0 +1,119 @@
+<header class="p-3 bg-dark text-white">
+  <div class="">
+    <div
+      class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start"
+    >
+      <a
+        style="font-size: xx-large"
+        routerLink="home"
+        class="d-flex align-items-center mb-2 mb-lg-0 text-white text-decoration-none"
+      >
+        <!-- <img src="assets/img/logo3.png" alt="">  -->
+        Album <span style="color: red">MWK</span>
+      </a>
+
+      <ul
+        class="main-nav nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0"
+      >
+        <li>
+          <a
+            routerLink="home"
+            style="margin-left: 20px"
+            class="nav-link px-2 text-white"
+            >Home</a
+          >
+        </li>
+
+
+        <li *ngIf="roleadelivery"><a routerLink="delivery" class="nav-link px-2 text-white">Delivery <i class="fas fa-cart-plus"></i></a></li>
+
+      </ul>
+      <!-- ACCOUNT -->
+      <div class="col-md-3 clearfix">
+        <div class="header-ctn">
+          <!-- Wishlist -->
+          <div>
+            <a (click)="gofav()">
+              <i class="fa fa-heart-o"></i>
+              <span>Your Wishlist</span>
+              <div class="qty">{{ CountOfFavoriteProduct }}</div>
+            </a>
+          </div>
+          <!-- /Wishlist -->
+
+          <!-- Cart -->
+          <div class="dropdown">
+            <a
+              (click)="gocart()"
+              class="dropdown-toggle"
+              data-toggle="dropdown"
+              aria-expanded="true"
+            >
+              <i class="fa fa-shopping-cart"></i>
+              <span>Your Cart</span>
+              <div class="qty">{{ countProduct }}</div>
+            </a>
+          </div>
+          <!-- /Cart -->
+
+          <!-- Menu Toogle -->
+          <div class="menu-toggle">
+            <a href="#">
+              <i class="fa fa-bars"></i>
+              <span>Menu</span>
+            </a>
+          </div>
+          <!-- /Menu Toogle -->
+        </div>
+      </div>
+
+      <div class="text-end" *ngIf="!islogin">
+        <button
+          type="button"
+          (click)="ngLogin()"
+          class="btn btn-outline-light me-2"
+        >
+          Login
+        </button>
+        <button (click)="ngSignup()" type="button" class="btn btn-warning">
+          Sign-up
+        </button>
+      </div>
+
+      <div *ngIf="islogin" style="margin-right: 10%; margin-left: 2%">
+        <button
+          mat-icon-button
+          [matMenuTriggerFor]="menu"
+          aria-label="Example icon-button with a menu"
+        >
+          <img id="iimg" src="{{ img }}" class="avatar" alt="Avatar" /> {{ name
+          }}<b class="caret"></b>
+        </button>
+        <mat-menu #menu="matMenu">
+          <button (click)="changimg()" mat-menu-item>
+            <mat-icon>get_app</mat-icon>
+            <span>Edit Image</span>
+          </button>
+          <button
+            mat-menu-item
+            *ngIf="role"
+            routerLink="/seller/profile/Products"
+          >
+            <mat-icon>account_circle</mat-icon>
+            <span>profile</span>
+          </button>
+          <button routerLink="myOrder" mat-menu-item>
+            <mat-icon>card_giftcard</mat-icon>
+            <span>MyOrder</span>
+          </button>
+          <hr />
+          <button mat-menu-item (click)="ngLogOut()">
+            <mat-icon>logout</mat-icon>
+            <span>logOut</span>
+          </button>
+        </mat-menu>
+      </div>
+    </div>
+    <!--  -->
+  </div>
+</header>

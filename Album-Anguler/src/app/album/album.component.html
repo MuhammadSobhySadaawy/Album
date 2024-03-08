@@ -1,0 +1,80 @@
+<div class="container-fluid mt-4 mb-4">
+  <div class="card">
+    <div class="card-body">
+      <div class="card-title">
+
+        <div class="row">
+          <div class="col-md-6">
+            <h2 *ngIf="_ID<=0">Add Album</h2>
+            <h2 *ngIf="_ID>0">Edit Album</h2>
+          </div>
+
+          <div class="col-md-6 button-items" style="text-align: end;">
+            <button type="submit" [disabled]="formData.invalid" (click)="Save()" class="btn btn-sm btn-success m-1">
+              <i class="fa fa-save"></i> save</button>
+
+
+          </div>
+        </div>
+      </div>
+      <form [formGroup]="formData">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-md-6 mt-1">
+              <div class="mb-3">
+                <label for="Offerstitle">title <span style="color: red;">*</span></label>
+                <input type="text" id="Offerstitle" class="form-control" formControlName="title" name="title"
+                  placeholder="Compound Offers Title"
+                  [class.is-invalid]="Get_Title?.invalid && (Get_Title?.touched || Get_Title?.dirty)"
+                  placeholder="Enter Title">
+                <div class="position-absolute" *ngIf=" Get_Title?.invalid && (Get_Title?.touched || Get_Title?.dirty)"
+                  style="color: red;">
+                  <small *ngIf="Get_Title?.errors?.['required']">
+                    Required Field Title</small>
+                  <small *ngIf="Get_Title?.errors?.['maxLength']">
+                    max length 300 character</small>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 mb-3">
+              <label for="OffersDescrip">Description</label>
+              <div class="">
+                <textarea class="form-control mt-1" type="text" id="OffersDescrip" formControlName="description"
+                  name="description" placeholder="Enter Description"
+                  [class.is-invalid]="Get_Description?.invalid && (Get_Description?.touched || Get_Description?.dirty)"
+                  rows="2"></textarea>
+              </div>
+              <div class="position-absolute"
+                *ngIf=" Get_Description?.invalid && (Get_Description?.touched || Get_Description?.dirty)"
+                style="color: red;">
+                <small *ngIf="Get_Description?.errors?.['maxLength']">
+                  max length 2000 character</small>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+
+            <div class="col-md-6 justify-content-center mb-3">
+              <div class="col-md-12">
+                <label class="text-dark mb-1">album cover
+                </label>
+                <!--?-->
+                <app-attachments [files]="FilesCover" [isMany]="false" [isRequired]="true" #mainImageComponent
+                  (OnChangeFile)="getCoverImage($event)"></app-attachments>
+              </div>
+            </div>
+            <div class="col-md-6  justify-content-center mb-3">
+              <div class="col-md-12">
+                <label class="text-dark mb-1">attachments
+                </label>
+                <!--?-->
+                <app-attachments [files]=" this.Response.albumAttachments" [isRequired]="true" [isMany]="true"
+                  #attachmentsComponent (OnChangeFile)="getFiles($event)"></app-attachments>
+              </div>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
